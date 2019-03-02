@@ -6,4 +6,3 @@ sum = (int(a) +int(b))/int(c)
 
 print("Total")
 print(sum)
-
