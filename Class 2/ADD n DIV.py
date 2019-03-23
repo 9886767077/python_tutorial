@@ -5,4 +5,4 @@ c= input("enter the third number")
 sum = (int(a) +int(b))/int(c)
 
 print("Total")
-print(sum)
+print(int(sum))
